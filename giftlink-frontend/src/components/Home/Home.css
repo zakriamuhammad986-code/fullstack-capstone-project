@@ -1,0 +1,13 @@
+.home-container {
+  text-align: center;
+  padding: 100px 20px;
+}
+.home-title {
+  font-size: 3rem;
+  margin-bottom: 16px;
+}
+.home-tagline {
+  font-size: 1.25rem;
+  color: #555;
+  margin-bottom: 32px;
+}
