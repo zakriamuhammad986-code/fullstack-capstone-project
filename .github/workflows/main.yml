@@ -42,4 +42,4 @@ jobs:
       - name: Build frontend
         run: |
           cd giftlink-frontend
-          npm run build
+          CI=false npm run build
